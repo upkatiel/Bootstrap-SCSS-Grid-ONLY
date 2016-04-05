@@ -1,2 +1,4 @@
 # Bootstrap-SCSS-Grid-ONLY
-scss bootstrap grid only, removing unwanted bootstrap css and using just bootstraps scss grid mixins and grid variables. 
+Using twbs bootstrap SCSS files here : https://github.com/twbs/bootstrap-sass
+
+I have stripped the SCSS down to bare bones grid mixins. This is a useful for Drupal 7 bootstrap theme.
